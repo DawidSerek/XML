@@ -1,3 +1,4 @@
+
 function PageHandler(title, description, image) {
     var mainPage = document.getElementById("main-page");
 
