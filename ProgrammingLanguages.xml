@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<programming-languages>
+
+    <language>
+        <title>Java</title>
+        <image-url>https://codecouple.pl/wp-content/uploads/2017/02/java-logo.png</image-url>
+        <description>Java is a widely-used, class-based, object-oriented programming language known for its platform independence. It is designed to be simple, secure, and versatile, making it suitable for a variety of applications, from web development to enterprise systems. Javas robustness and portability have made it a popular choice in the software development industry.</description>
+    </language>
+    
+    <language>
+        <title>Python</title>
+        <image-url>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png</image-url>
+        <description>Python is a high-level, interpreted programming language known for its readability and ease of use. It supports multiple programming paradigms, making it versatile and suitable for various applications. Python is widely used in web development, data analysis, artificial intelligence, and scientific computing. Its extensive standard library and active community contribute to its popularity among developers.</description>
+    </language>
+
+    <language>
+        <title>C++</title>
+        <image-url>https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png</image-url>
+        <description>C++ is a powerful, general-purpose programming language that builds on the features of the C programming language. It supports object-oriented programming, generic programming, and low-level memory manipulation. C++ is commonly used in systems programming, game development, and performance-critical applications. Its rich set of features provides developers with control over system resources while offering high-level abstractions.</description>
+    </language>
+
+    <language>
+        <title>JavaScript</title>
+        <image-url>https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png</image-url>
+        <description>JavaScript is a versatile scripting language commonly used in web development. It enables dynamic content, interactive user interfaces, and asynchronous communication. JavaScript runs in web browsers and allows developers to create responsive and feature-rich web applications. With the rise of frameworks like React and Node.js, JavaScript has become a key technology for both client-side and server-side development.</description>
+    </language>
+
+    <language>
+        <title>Swift</title>
+        <image-url>https://developer.apple.com/swift/images/swift-og.png</image-url>
+        <description>Swift is a programming language developed by Apple for building iOS, macOS, watchOS, and tvOS applications. It is designed to be fast, safe, and expressive, providing modern language features while maintaining compatibility with existing Objective-C code. Swifts syntax is concise and easy to read, making it accessible to both new and experienced developers. With its emphasis on performance and developer productivity, Swift has gained popularity in the Apple development ecosystem.</description>
+    </language>
+
+    <language>
+        <title>Ruby</title>
+        <image-url>https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png</image-url>
+        <description>Ruby is a dynamic, object-oriented programming language known for its simplicity and productivity. It has an elegant syntax that emphasizes readability and reduces the amount of code needed. Ruby is often used for web development using the Ruby on Rails framework. It prioritizes developer happiness and has a strong community that contributes to its open-source ecosystem.</description>
+    </language>
+
+</programming-languages>

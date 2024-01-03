@@ -1,0 +1,56 @@
+.programming-language-widget {
+    background-color: beige;
+    width: 29.333333333%;
+    height: 12rem;
+    border-radius: 1rem;
+    padding: 1%;
+    text-align: center;
+    margin: 1%;
+    align-items: center;
+}
+
+.programming-language-button{
+    background-color: darkgreen;
+    color: white;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}
+
+.return-button {
+    background-color: darkgreen;
+    color: white;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    position: absolute;
+    top: 1rem; 
+    left: 1rem; 
+    margin: 0;
+}
+
+.programming-language-button:hover{
+    background-color: lightgreen;
+    color: black;
+}
+
+* {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin: 1rem;
+}
+
+img {
+    height: 37.5%;
+    align-self: center;
+}
+
+#page {
+    display: none;
+}
+
+#main-page {
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+elementFormDefault="qualified">
+
+    <xs:element name="programming-languages">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="language" type="LanguageType" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="LanguageType">
+        <xs:sequence>
+
+            <xs:element name="title">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:minLength value="3"/>
+                        <xs:maxLength value="20"/>
+                        <xs:pattern value="[^']*"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+
+            <xs:element name="image-url">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:pattern value="https://.*\.(jpg|png|jpeg)"/>
+                        <xs:pattern value="[^']*"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            
+            <xs:element name="description">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:minLength value="50"/>
+                        <xs:pattern value="[^']*"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+
+        </xs:sequence>
+    </xs:complexType>
+
+</xs:schema>
