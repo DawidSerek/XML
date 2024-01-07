@@ -2,9 +2,9 @@
 
 This project is a proof of concept showcasing my understanding of markup languages, specifically XML and XSLT, to create an interactive webpage about programming languages. The goal is to provide a simple, yet effective, representation of various programming languages with associated details.
 
-## Project Structure
+## Project Structure 🧱
 
-Files:
+### Files 📁
 * Index.xslt: This XSLT file defines the main structure of the HTML page. It uses templates to transform the XML data into an interactive webpage.
 * output.html: The generated HTML file after applying the XSLT transformation to the XML data.
 * PageHandler.js: A JavaScript file containing a function (PageHandler) that handles the switching between the main page and detailed language pages.
@@ -12,7 +12,7 @@ Files:
 * ProgrammingLanguagesDefinition.xsd: XML Schema Definition (XSD) file ensuring the validity of the XML structure.
 * ProgrammingLanguagesStylesheet.css: Cascading Style Sheets (CSS) file providing styling for the HTML elements.
 
-How It Works
+### How It Works 🤔
 
 * XML Data (ProgrammingLanguages.xml): Contains information about programming languages such as title, image URL, and description.
 * XSLT Transformation (Index.xslt): Transforms the XML data into HTML. It uses templates to define how each element in the XML should be displayed on the webpage.
