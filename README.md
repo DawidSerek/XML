@@ -1,3 +1,5 @@
+> Author: Dawid Serek
+
 # Programming Languages Showcase
 
 This project is a proof of concept showcasing my understanding of markup languages, specifically XML and XSLT, to create an interactive webpage about programming languages. The goal is to provide a simple, yet effective, representation of various programming languages with associated details.

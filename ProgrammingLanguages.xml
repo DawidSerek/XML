@@ -38,4 +38,10 @@
         <description>Ruby is a dynamic, object-oriented programming language known for its simplicity and productivity. It has an elegant syntax that emphasizes readability and reduces the amount of code needed. Ruby is often used for web development using the Ruby on Rails framework. It prioritizes developer happiness and has a strong community that contributes to its open-source ecosystem.</description>
     </language>
 
+    <language>
+        <title>Ruby</title>
+        <image-url>https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png</image-url>
+        <description>Ruby is a dynamic, object-oriented programming language known for its simplicity and productivity. It has an elegant syntax that emphasizes readability and reduces the amount of code needed. Ruby is often used for web development using the Ruby on Rails framework. It prioritizes developer happiness and has a strong community that contributes to its open-source ecosystem.</description>
+    </language>
+
 </programming-languages>
